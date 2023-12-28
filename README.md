@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Full Stack Developer**
 - 💬 Ask me about **anything related to Frontend and more **
 - 📫 How to reach me **flesten.ali@gmail.com**
-- 👨‍💻 All of my projects are available at **flesten-ali.github.io /Blog-WEB/**
+- 👨‍💻 All of my projects are available at <a href="https://flesten-ali.github.io/Blog-WEB/">My Portfolio</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xlHePVavi_ZnPqUOA4sB0MXQQIbPA0Wh/view?usp=sharing">My CV</a>
 - ⚡ Fun fact **I use tabs over spaces**
 
