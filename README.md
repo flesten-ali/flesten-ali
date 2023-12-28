@@ -42,7 +42,6 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=flesten-ali&show_icons=true&locale=en&theme=" alt="flesten-ali" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flesten-ali&theme=" alt="flesten-ali" /></p>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
