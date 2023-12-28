@@ -16,7 +16,9 @@
 <a href="https://github.com/flesten-ali" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/flestenbawaqnah" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:flesten.ali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+
+</div>
+<br><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Felesten Bwaqnah" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Felesten Bwaqnah" height="30" width="40" /></a><a href="https://fb.com/Flesten Bawaqnah" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Flesten Bawaqnah" height="30" width="40" /></a><a href="https://instagram.com/flestenbawaqnah" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="flestenbawaqnah" height="30" width="40" /></a><a href="https://codeforces.com/profile/flesten.ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="flesten.ali" height="30" width="40" /></a></p>
 <br>
@@ -34,7 +36,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
-
+<br>
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flesten-ali&layout=compact&theme=" alt=flesten-ali />
 
