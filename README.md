@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **anything related to Frontend and more **
 - 📫 How to reach me **flesten.ali@gmail.com**
 - 👨‍💻 All of my projects are available at <a href="https://flesten-ali.github.io/Blog-WEB/">My Portfolio</a>
