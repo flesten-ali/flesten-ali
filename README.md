@@ -9,7 +9,7 @@
 - 💬 Ask me about **anything related to Frontend and more**
 - 📫 How to reach me **flesten.ali@gmail.com**
 - 👨‍💻 All of my projects are available at <a href="https://flesten-ali.github.io/Blog-WEB/">My Portfolio</a>
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xlHePVavi_ZnPqUOA4sB0MXQQIbPA0Wh/view?usp=sharing">My CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1oekHuj-bOsbjk6q92X_5LaDaGt1Pm3-C/view?usp=sharing">My CV</a>
 - ⚡ Fun fact **I use tabs over spaces**
 
 <div> <a href="https://www.linkedin.com/in/Felesten Bwaqnah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
