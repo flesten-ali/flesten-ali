@@ -10,7 +10,7 @@
 - 📫 How to reach me **flesten.ali@gmail.com**
 - 👨‍💻 All of my projects are available at <a href="https://flesten-ali.github.io/Blog-WEB/">My Portfolio</a>
 - ⚡ Fun fact **I use tabs over spaces**
-
+- Huge fan of <a href="https://github.com/fekberg">Filip Ekberg</a>
  
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
