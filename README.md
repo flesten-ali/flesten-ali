@@ -6,12 +6,12 @@
 
 <image src="https://user-images.githubusercontent.com/82146140/177695541-fbee7a11-8763-49a8-a520-416cc9a5b97c.svg"/>
 <div style="display: flex; align-items: center; justify-content: center;">
-<image src="https://camo.githubusercontent.com/ac07a65a01b50154c7f050daf0b4172e88261fc205b75eae5b6c09f6f4295e35/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966" width="60" style="margin-right: 10px;" />
+<image src="https://camo.githubusercontent.com/ac07a65a01b50154c7f050daf0b4172e88261fc205b75eae5b6c09f6f4295e35/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966" width="40" style="margin-right: 10px;" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&center=true&vCenter=true&width=435&lines=Welcome!;I'm+Falastin+Bawaqna.)](https://git.io/typing-svg)
 
 
-<image src="https://camo.githubusercontent.com/ac07a65a01b50154c7f050daf0b4172e88261fc205b75eae5b6c09f6f4295e35/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966" width="60" style="margin-right: 10px;" />
+<image src="https://camo.githubusercontent.com/ac07a65a01b50154c7f050daf0b4172e88261fc205b75eae5b6c09f6f4295e35/68747470733a2f2f656d6f6a692e646973636f72642e73742f656d6f6a69732f37363862313038642d323734662d346634342d613633342d3834373762313665666365372e676966" width="40" style="margin-right: 10px;" />
 </div>
 
 ## 🌐 Socials:
@@ -35,12 +35,6 @@
 
   
 </p>
-<br>
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flesten-ali&layout=compact&theme=" alt=flesten-ali />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=flesten-ali&show_icons=true&locale=en&theme=" alt="flesten-ali" /></p>
-
-
+ 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
