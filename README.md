@@ -30,11 +30,10 @@
 
 # 📊 GitHub Stats:
 
-<div style="text-align: center;width:100%">
-![](https://github-readme-stats.vercel.app/api?username=flesten-ali&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api?username=flesten-ali&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=flesten-ali&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flesten-ali&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
- </div>
+ 
  
 ## 🏆 GitHub Trophies
 
