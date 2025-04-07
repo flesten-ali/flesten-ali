@@ -41,7 +41,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=flesten-ali&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
   
-</p>
- 
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/flesten-ali/flesten-ali/output/snake.svg" alt="Snake animation" />
